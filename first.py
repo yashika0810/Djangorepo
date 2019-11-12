@@ -1,4 +1,5 @@
 x=10
 y=20
-result=x+y
+z=60
+result=x+y+z
 print(result)
